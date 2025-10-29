@@ -1,4 +1,4 @@
-# PumpFun Migration / Pump Swap Sniper
+# Jito ShredStream PumpFun Migration / Pump Swap Sniper
 Swift Trading Bot that snipes migration pumpfun tokens or newly launched pump swap tokens
 
 ## 📞 Contact
@@ -12,6 +12,7 @@ Swift Trading Bot that snipes migration pumpfun tokens or newly launched pump sw
 ## Tx Examples (First Buyer)
 ### Token Address: https://solscan.io/token/D5rtmE3smZu6k1iaVRaRjuscuLgtMfNuJNHaudC5wmBD
 https://photon-sol.tinyastro.io/en/lp/BLWfwbZF6meWxZSoFpacuh11ok4j7xyXQ3nxHxjVkiZc?handle=3073136b2e431829b316a8
+<img width="1561" height="505" alt="image" src="https://github.com/user-attachments/assets/970776ef-d58d-4888-9d3c-3d9c1c2fe609" />
 
 - Pool Creation:
 https://solscan.io/tx/4zzmVSqEWaschpHVzPGqqeJkfFFVJCaMq4tArtW5wEx3kwLhrZo825cNGzVUh8M2QknUM51xv4c7sJfbUmoPWVz6
